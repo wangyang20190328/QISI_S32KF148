@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1670984675754" transient="false" version="3.0">
+<site enabled="true" linkfile="C:/Huawei_Autosar/EB/tresos/QISI_S32KF148/links/SW32K1_RTD_4.4_1.0.1.link" policy="USER-EXCLUDE" updateable="true" url="file:../../../../NXP/SW32K1_RTD_4.4_1.0.1/eclipse/">
+</site>
+<site enabled="true" policy="USER-EXCLUDE" updateable="true" url="platform:/base/">
+</site>
+</config>
